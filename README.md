@@ -22,3 +22,6 @@ You can find restaurants within 2000 meters of your current location and view th
 
 # Warning
 **I obtained the restaurant search API through Google. This API is not free, and additional requests will incur charges. I don't know how many times it can be used for free. Please try to minimize the number of calls to the restaurant search API.**
+
+# Reminder
+I've uploaded a video that demonstrates how the tool works.
