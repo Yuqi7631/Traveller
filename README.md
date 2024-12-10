@@ -6,7 +6,7 @@ Yuqi Feng
 
 # Usage
 ## Login
-You can run the 'LoginPage.py' to start at the login page. Before logging in, make sure to sign up first. When you click the sign-up button, the system creates a CSV file to store your username and a hashed password.
+You can run the `LoginPage.py` to start at the login page. Before logging in, make sure to sign up first. When you click the sign-up button, the system creates a CSV file to store your username and a hashed password.
 
 ## Main Page
 After logging in, the main page will appear, featuring three sections: Weather, Expense, and Restaurants. You can click on any of them to proceed.
