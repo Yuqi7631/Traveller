@@ -12,10 +12,10 @@ You can run the `LoginPage.py` to start at the login page. Before logging in, ma
 After logging in, the main page will appear, featuring three sections: Weather, Expense, and Restaurants. You can click on any of them to proceed.
 
 ## Weather Page
-You can search for the weather of a specific city in a specific country, or click 'Get weather from current location' to view the weather at your current location
+You can search for the weather of a specific city in a specific country, or click `Get weather from current location` to view the weather at your current location
 
 ## Expense Page
-You can manually record expenses during the trip. Click 'Summary' to view the financial data
+You can manually record expenses during the trip. Click `Summary` to view the financial data
 
 ## Restaurants Page
 You can find restaurants within 2000 meters of your current location and view their ratings and addresses.
