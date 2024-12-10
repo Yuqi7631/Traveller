@@ -1,7 +1,7 @@
 # Traveller-- A Travel Accounting Tool with Weather Display and Restaurant Recommendations
 I developed a Travel Accounting Tool using Python, featuring an intuitive Graphical User Interface (GUI) to enhance usability. This tool is designed to assist users in managing their travel finances efficiently while offering nearby restaurant recommendations and weather updates to enhance their overall travel experience.
 
-# Authors
+# Author
 Yuqi Feng
 
 # Usage
