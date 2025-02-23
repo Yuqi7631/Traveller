@@ -21,7 +21,7 @@ You can manually record expenses during the trip. Click `Summary` to view the fi
 You can find restaurants within 2000 meters of your current location and view their ratings and addresses.
 
 # Warning
-**I obtained the restaurant search API through Google. This API is not free, and additional requests will incur charges. I don't know how many times it can be used for free. Please try to minimize the number of calls to the restaurant search API.**
+**I obtained the restaurant search API through Google. This API is not free, and additional requests will incur charges.Please obtain the restaurant search API by yourself.**
 
 # Reminder
 I've uploaded a video that demonstrates how the tool works. Please check `How to use the tool.mp4`.
